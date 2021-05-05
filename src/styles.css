@@ -11,3 +11,113 @@ height: 70px;
 background-color: white;
 text-align: center;
 }
+.center {
+    width: 40px;
+   height: 40px;
+   background-color: black;
+   border-radius: 50%;
+   position: absolute;
+   left : 285px;
+   box-shadow: 0 0 0 3px yellow;
+}
+.clk{
+    margin-top: 5%;
+    width: 600px;
+    height: 600px;
+    background : white;
+    border-radius: 50%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    box-shadow: 0 0 0 10px #2e2e2e;
+}
+.sec{
+    position: absolute;
+    width: 8px;
+    height: 240px;
+    margin-bottom: 248px;
+    background-color: red;
+    transform-origin: bottom;  
+    left: 50%; 
+}
+.min{
+    left: 50%;
+    position: absolute;
+    width: 8px;
+    height: 180px;
+    margin-bottom: 180px;
+    background-color: blue;
+    transform-origin: bottom;   
+}
+.hour{
+    left: 50%;
+    position: absolute;
+    width: 8px;
+    height: 100px;
+    margin-bottom: 100px;
+    
+    background-color: green;
+    transform-origin: bottom;   
+}
+.one {
+    position: absolute;
+    left: 72%;
+    bottom: 85%;
+}
+
+.two {
+    position: absolute;
+    left : 87%;
+    bottom: 67%;
+}
+
+.three {
+    position: absolute;
+    left : 92%;
+}
+
+.four {
+    position: absolute;
+    left : 90%;
+    top : 67%;
+}
+.five {
+    position: absolute;
+    left : 73%;
+    top : 83%;
+}
+.six {
+    position: absolute;
+    right : 50%;
+    top : 91%;
+}
+.seven {
+    position: absolute;
+    right : 73%;
+    top : 83%;
+}
+.eight {
+    position: absolute;
+    right : 88%;
+    top : 68%;
+}
+.nine {
+    position: absolute;
+    right : 94%;
+}
+.ten {
+    position: absolute;
+    left : 10%;
+    bottom: 70%;;
+}
+.eleven {
+    position: absolute;
+    left : 27%;
+    bottom: 85%;
+}
+.twelve {
+    position: absolute;
+    left: 50%;
+    bottom: 91%;
+}
