@@ -1,0 +1,13 @@
+body{
+    background: gray;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.box{
+width: 200px;
+height: 70px;
+background-color: white;
+text-align: center;
+}
