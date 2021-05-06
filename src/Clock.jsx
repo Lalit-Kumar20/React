@@ -8,7 +8,7 @@ export default function Clock(props){
             <div className= "sec" style ={ {transform: `rotate(${props.sec}deg)`}}></div>
             <div className= "min" style ={ {transform: `rotate(${props.min}deg)`}}></div>
             <div className= "hour" style ={ {transform: `rotate(${props.hour}deg)`}}></div>
-            <div className= "center"></div> 
+            <div className= "center"></div>     
             <h3 className="one">1</h3>
             <h3 className="two">2</h3>
             <h3 className="three">3</h3>
